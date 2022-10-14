@@ -2,7 +2,7 @@
 
 ## React Project. 
 
-#### By Vivek Gupta
+#### By arjun singh
 
 #### This Webpage contains To Do List App
 
